@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MDHomework12</string>
+    <string name="button_theme_1">Выбрать тему №1</string>
+    <string name="button_theme_2">Выбрать тему №2</string>
+    <string name="button_theme_3">Выбрать тему №3</string>
+    <string name="button_theme_4">Выбрать тему №4</string>
+</resources>
